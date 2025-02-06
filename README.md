@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm an enthusiastic learner who loves exploring ne
 
 ## 🛠️ Languages and Tools
 - **Languages:** Python, R
-- **Tools:** Jupyter, RStudio, Git, Docker
+- **Tools:** Jupyter, RStudio, Git
 
 ## 📈 GitHub Stats
 ![7CkShy's GitHub stats](https://github-readme-stats.vercel.app/api?username=7CkShy&show_icons=true&theme=radical)
