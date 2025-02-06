@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm CkShy! 👋
 
-<!--
-**7CkShy/7CkShy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an enthusiastic learner who loves exploring new technologies and contributing to open-source projects. Here's a little bit about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 I’m currently familiarizing myself with Python and R.
+- 👯 I’m looking to collaborate on data analysis and machine learning projects.
+- 💬 Ask me about anything related to Python, R, and data science.
+- 📫 How to reach me: [Email Me](ckshy@snnu.edu.cn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools
+- **Languages:** Python, R
+- **Tools:** Jupyter, RStudio, Git, Docker
+
+## 📈 GitHub Stats
+![7CkShy's GitHub stats](https://github-readme-stats.vercel.app/api?username=7CkShy&show_icons=true&theme=radical)
+
+## 🔗 Connect with Me
+- [ZhiHu](https://www.zhihu.com/people/wei-feng-12581)
+- [GitHub](https://github.com/7CkShy)
+
+## 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
+
+Thanks for visiting my profile!
