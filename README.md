@@ -26,5 +26,7 @@ Welcome to my GitHub profile! I'm an enthusiastic learner who loves exploring ne
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
 
 ## 🧑‍🤝‍🧑Friend
--[SpatLyv](https://github.com/SpatLyu)
+-[SpatLyu](https://github.com/SpatLyu)
+
+
 Thanks for visiting my profile!
