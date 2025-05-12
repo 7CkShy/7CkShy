@@ -1,4 +1,4 @@
-# Hi there, I'm CkShy! 👋
+# Hi there, I'm Kai Cai! 👋
 
 Welcome to my GitHub profile! I'm an enthusiastic learner who loves exploring new technologies and contributing to open-source projects. Here's a little bit about me:
 
