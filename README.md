@@ -1,32 +1,70 @@
-# Hi there, I'm Kai Cai! 👋
+# Hi there, I'm Kai Cai 👋
 
-Welcome to my GitHub profile! I'm an enthusiastic learner who loves exploring new technologies and contributing to open-source projects. Here's a little bit about me:
+Welcome to my GitHub! I am passionate about **spatial analysis, data science, and computational research**.
+I enjoy exploring new methods and building reproducible workflows using **R and Python**.
+
+---
 
 ## 🚀 About Me
-- 🌱 I’m currently familiarizing myself with Python and R.
-- 👯 I’m looking to collaborate on data analysis and machine learning projects.
-- 💬 Ask me about anything related to Python, R, and data science.
-- 📫 How to reach me: [Email Me](ckshy@snnu.edu.cn)
+
+* 🎓 Undergraduate student in **Geographic Information Science**
+* 🌱 Currently focusing on **spatial statistics, ecological analysis, and data science**
+* 🧠 Learning advanced analytical methods using **R, Python, and GIS**
+* 🤝 Open to collaboration in **spatial analysis, remote sensing, and data science projects**
+* 📫 Contact me: **[ckshy@snnu.edu.cn](mailto:ckshy@snnu.edu.cn)**
+
+---
 
 ## 🛠️ Languages and Tools
-- **Languages:** Python, R
-- **Tools:** Jupyter, RStudio, Git
 
-## 📈 GitHub Stats
-![7CkShy's GitHub stats](https://github-readme-stats.vercel.app/api?username=7CkShy&show_icons=true&theme=radical)
+**Languages**
 
-## 🔗 Connect with Me
-- [ZhiHu](https://www.zhihu.com/people/wei-feng-12581)
-- [GitHub](https://github.com/7CkShy)
+* R
+* Python
 
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+**Tools**
 
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
+* RStudio
+* Jupyter Notebook
+* Git / GitHub
+* GIS & Spatial Analysis tools
 
-## 🧑‍🤝‍🧑Friend
-- [SpatLyu](https://github.com/SpatLyu)
+---
 
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7CkShy\&show_icons=true\&count_private=true\&include_all_commits=true\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7CkShy\&layout=compact\&hide_border=true)
+
+---
+
+## 🌐 Connect With Me
+
+* 🧠 ZhiHu: https://www.zhihu.com/people/wei-feng-12581
+* 💻 GitHub: https://github.com/7CkShy
+
+---
+
+## 📚 Research & Projects
+
+Some of my repositories focus on:
+
+* Spatial statistics
+* Ecological data analysis
+* Remote sensing data processing
+* Reproducible research workflows
+
+More projects are coming soon 🚀
+
+---
+
+## 🤝 Friends
+
+* https://github.com/SpatLyu
+
+---
+
+⭐ *If you find my repositories useful, feel free to give them a star!*
 
 Thanks for visiting my profile!
