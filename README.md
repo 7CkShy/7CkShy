@@ -33,9 +33,9 @@ I enjoy exploring new methods and building reproducible workflows using **R and 
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7CkShy\&show_icons=true\&count_private=true\&include_all_commits=true\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7CkShy&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7CkShy\&layout=compact\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7CkShy&layout=compact&hide_border=true)
 
 ---
 
