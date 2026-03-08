@@ -33,7 +33,27 @@ I enjoy exploring new methods and building reproducible workflows using **R and 
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://img.shields.io/github/followers/7CkShy?label=Follow&style=social)](https://github.com/7CkShy/?tab=follow)
+<p align="center">
+
+<table>
+
+<tr>
+
+<td>
+
+<img src="https://github-stats-extended.vercel.app/api?username=7CkShy" />
+</td>
+
+<td>
+
+<img src="https://github-profile-trophy-tawny.vercel.app/?username=7CkShy" style="width: 100%;"/>
+</td>
+
+</tr>
+
+</table>
+
+</p>
 
 ---
 
