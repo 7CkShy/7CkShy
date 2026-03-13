@@ -1,6 +1,6 @@
-# Hi there, I'm Kai Cai 👋
+# Hi there, I'm Kai Cai （蔡凯）👋
 
-Welcome to my GitHub! I am passionate about **spatial analysis, data science, and computational research**.
+Welcome to my GitHub! I am passionate about **spatial analysis, data science, and bio distribution research**.
 I enjoy exploring new methods and building reproducible workflows using **R and Python**.
 
 ---
@@ -25,6 +25,7 @@ I enjoy exploring new methods and building reproducible workflows using **R and 
 **Tools**
 
 * RStudio
+* Positron
 * Jupyter Notebook
 * Git / GitHub
 * GIS & Spatial Analysis tools
